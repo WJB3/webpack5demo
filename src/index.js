@@ -3,7 +3,7 @@ import _ from 'lodash';
 import anotherModule from "./another-module";  
 
 function component() {
-    console.log("componaasdasaent")
+    console.log("componaasdasaent");
     const element = document.createElement('div');
     const btn = document.createElement('button');
 
