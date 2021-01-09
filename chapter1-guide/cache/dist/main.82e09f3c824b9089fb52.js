@@ -1,0 +1,1 @@
+(self.webpackChunkstarting=self.webpackChunkstarting||[]).push([[179],{138:(e,n,a)=>{"use strict";var t=a(486),s=a.n(t);document.body.appendChild(function(){const e=document.createElement("div");return e.innerHTML=s().join(["Hello","webpaaaassaack"]),e}())}},0,[[138,666,216]]]);
